@@ -7,8 +7,8 @@ An Exciting Web Application powered by the PokeAPI to fetch Pokémon Data.
 
 This web application fetches Pokémon data and displays it in a visually appealing and interactive format. It includes features such as searching for Pokémon, viewing detailed information, and enjoying a vibrant UI.
 
-Visit the deployed page at [Pokémon Search Page](https://your-deployed-link.com) to see the live application in action.
-For the code, visit GitHub at [Pokémon Search Page]().
+Visit the deployed page at [Pokémon Search Page](https://pokeapi-integration.vercel.app/) to see the live application in action.
+For the code, visit GitHub at [Pokémon Search Page](https://github.com/kvskmurty2802/PokeAPI-Integration/).
 
 ![Screenshot](Image.png)
 
